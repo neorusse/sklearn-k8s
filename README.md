@@ -1,6 +1,6 @@
 # Machine Learning Microservice Application
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![SKLearn](https://circleci.com/gh/neorusse/sklearn-k8s.svg?style=svg)](https://circleci.com/gh/neorusse/sklearn-k8s) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Project Task
 
